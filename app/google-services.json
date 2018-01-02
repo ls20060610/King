@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "243757096760",
+    "firebase_url": "https://king-d6c30.firebaseio.com",
+    "project_id": "king-d6c30",
+    "storage_bucket": "king-d6c30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243757096760:android:d7aacfa5ce5cb51f",
+        "android_client_info": {
+          "package_name": "com.example.user.king"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243757096760-3p4nkrg0pgvsl0q1u8u1kr5ekh4oppn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.king",
+            "certificate_hash": "5f0313e1d6c8f42c86b021fa2de4ba76c28a57bc"
+          }
+        },
+        {
+          "client_id": "243757096760-pdm9mjje8n44pug3bt7n4lismpb3p6g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvy13f3KwVCoLOVZnXbbEPzm4YGUGqRD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243757096760-pdm9mjje8n44pug3bt7n4lismpb3p6g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
